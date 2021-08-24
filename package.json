@@ -1,0 +1,17 @@
+{
+  "name": "uppgifter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node dist/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "typescript": "^4.3.5"
+  }
+}
